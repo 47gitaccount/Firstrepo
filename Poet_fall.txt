@@ -2,3 +2,4 @@ I would love to code
 and will be loving.
 Now I would like to create Rainbow.
 Colors will be added in next branch.
+First color is :Violet
